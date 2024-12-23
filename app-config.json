@@ -1,5 +1,5 @@
 {
-  "name": "CHERRIES SUPPLY CHAIN TRACEABILITY",
+  "name": "BizCubed SUPPLY CHAIN TRACEABILITY",
   "styles": {
     "primaryColor": "rgb(35, 138, 186)",
     "secondaryColor": "black",
@@ -19,11 +19,11 @@
   ],
   "apps": [
     {
-      "name": "Orchard Facility",
+      "name": "Project Delivery",
       "type": "producer",
       "assets": {
-        "logo": "Cherries-farm-logo.webp",
-        "brandTitle": "Orchard Facility"
+        "logo": "BizCube-farm-logo.webp",
+        "brandTitle": "Project Delivery"
       },
       "styles": {
         "primaryColor": "#b5651d",
@@ -44,7 +44,7 @@
                 },
                 "data": {
                   "type": ["Product"],
-                  "id": "https://example.com/01/09359502000034",
+                  "id": "http://localhost:3000/gs1/01/09359502000034",
                   "name": "EcoCharge Lithium-Ion Battery",
                   "registeredId": "09359502000034",
                   "idScheme": {
@@ -662,7 +662,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -678,7 +678,7 @@
                       }
                     ],
                     "type": ["DigitalProductPassport"],
-                    "dlrLinkTitle": "Cherries Product Passport",
+                    "dlrLinkTitle": "BizCube Product Passport",
                     "dlrVerificationPage": "http://localhost:3003/verify"
                   },
                   "dlr": {
@@ -746,7 +746,7 @@
                 },
                 "data": {
                   "type": ["Product"],
-                  "id": "https://example.com/01/3ABCD123XBDC0447",
+                  "id": "http://localhost:3000/gs1/01/3ABCD123XBDC0447",
                   "name": "EcoCharge Lithium-Ion Battery",
                   "registeredId": "3ABCD123XBDC0447",
                   "idScheme": {
@@ -1364,7 +1364,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -1379,7 +1379,7 @@
                       }
                     ],
                     "type": ["DigitalProductPassport"],
-                    "dlrLinkTitle": "Cherries Product Passport",
+                    "dlrLinkTitle": "BizCube Product Passport",
                     "dlrVerificationPage": "http://localhost:3003/verify"
                   },
                   "dlr": {
@@ -1590,7 +1590,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -2536,7 +2536,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -2712,7 +2712,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -2892,7 +2892,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -3072,7 +3072,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -3273,7 +3273,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -3773,7 +3773,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -4189,7 +4189,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -4292,7 +4292,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Orchard Facility"
+                      "name": "Project Delivery"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -4337,11 +4337,11 @@
       ]
     },
     {
-      "name": "Packhouse Facility",
+      "name": "Release Management",
       "type": "producer",
       "assets": {
-        "logo": "Cherries-farm-logo.webp",
-        "brandTitle": "Packhouse Facility"
+        "logo": "BizCube-farm-logo.webp",
+        "brandTitle": "Release Management"
       },
       "styles": {
         "primaryColor": "#b5651d",
@@ -4368,7 +4368,7 @@
                       },
                       "data": {
                         "type": ["Product"],
-                        "id": "https://example.com/01/09359502000034",
+                        "id": "http://localhost:3000/gs1/01/09359502000034",
                         "name": "EcoCharge Lithium-Ion Battery",
                         "registeredId": "095201234",
                         "idScheme": {
@@ -4954,7 +4954,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Packhouse Facility"
+                      "name": "Release Management"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -4969,7 +4969,7 @@
                       }
                     ],
                     "type": ["DigitalProductPassport"],
-                    "dlrLinkTitle": "Cherries Product Passport",
+                    "dlrLinkTitle": "BizCube Product Passport",
                     "dlrVerificationPage": "http://localhost:3003/verify"
                   },
                   "dlr": {
@@ -5174,7 +5174,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Packhouse Facility"
+                      "name": "Release Management"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -5237,11 +5237,11 @@
       ]
     },
     {
-      "name": "Fumigation and Freight Forwarding Facility",
+      "name": "Service Desk",
       "type": "producer",
       "assets": {
-        "logo": "Cherries-farm-logo.webp",
-        "brandTitle": "Fumigation and Freight Forwarding Facility"
+        "logo": "BizCube-farm-logo.webp",
+        "brandTitle": "Service Desk"
       },
       "styles": {
         "primaryColor": "#b5651d",
@@ -5268,7 +5268,7 @@
                       },
                       "data": {
                         "type": ["Product"],
-                        "id": "https://example.com/01/09359502000034",
+                        "id": "http://localhost:3000/gs1/01/09359502000034",
                         "name": "EcoCharge Lithium-Ion Battery",
                         "registeredId": "095201234",
                         "idScheme": {
@@ -5854,7 +5854,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Fumigation and Freight Forwarding Facility"
+                      "name": "Service Desk"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -5869,7 +5869,7 @@
                       }
                     ],
                     "type": ["DigitalProductPassport"],
-                    "dlrLinkTitle": "Cherries Product Passport",
+                    "dlrLinkTitle": "BizCube Product Passport",
                     "dlrVerificationPage": "http://localhost:3003/verify"
                   },
                   "dlr": {
@@ -6074,7 +6074,7 @@
                     "vckitAPIUrl": "http://localhost:3332/v2",
                     "issuer": {
                       "id": "did:web:uncefact.github.io:project-vckit:test-and-development",
-                      "name": "Fumigation and Freight Forwarding Facility"
+                      "name": "Service Desk"
                     },
                     "headers": {
                       "Authorization": "Bearer test123"
@@ -6143,7 +6143,7 @@
       "name": "Airport Terminal Facility",
       "type": "producer",
       "assets": {
-        "logo": "Cherries-farm-logo.webp",
+        "logo": "BizCube-farm-logo.webp",
         "brandTitle": "Airport Terminal"
       },
       "styles": {
@@ -6171,7 +6171,7 @@
                       },
                       "data": {
                         "type": ["Product"],
-                        "id": "https://example.com/01/09359502000034",
+                        "id": "http://localhost:3000/gs1/01/09359502000034",
                         "name": "EcoCharge Lithium-Ion Battery",
                         "registeredId": "095201234",
                         "idScheme": {
@@ -6772,7 +6772,7 @@
                       }
                     ],
                     "type": ["DigitalProductPassport"],
-                    "dlrLinkTitle": "Cherries Product Passport",
+                    "dlrLinkTitle": "BizCube Product Passport",
                     "dlrVerificationPage": "http://localhost:3003/verify"
                   },
                   "dlr": {
